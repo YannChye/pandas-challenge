@@ -3,7 +3,7 @@
 Completed python (week 4) homework for Monash University Data Analytics Boot Camp.
 
 ## Heroes of Pymoli
-* Breakdown of purchases in the fictional game 'Heroes of Pymoli
+* Breakdown of purchases in the fictional game 'Heroes of Pymoli'.
 * Folder structure include -
 	* Resources folder - contains csv file used for analysis
 	* HeroesOfPymoli.ipynb - Jupyter notebook containing code and report
